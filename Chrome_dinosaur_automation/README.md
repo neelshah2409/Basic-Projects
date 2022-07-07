@@ -10,7 +10,7 @@ Open the Dinosaur Run game by typing chrome://dino in your Chrome browser. Make 
 After exceuting the script on your IDE, immediately switch to the chrome browser and then press  the spacebar to start the game.
 
 ## Output
-![image](Images/image.png)
+![image](Image/image.png)
 
 
 ## Author(s)
