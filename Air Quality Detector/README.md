@@ -13,7 +13,7 @@ Here for the usage of api we need to generate a api key from the website and the
 
 ## Output
 
-![image](Images/output(air).png)
+![image](Image/output(air).png)
 ## Author(s)
 
 Neel Shah
