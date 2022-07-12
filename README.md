@@ -1,4 +1,5 @@
-# Basic-Projects
+# Collection Of Python Projects
 
-There are basic programming projects .
+
+
 
